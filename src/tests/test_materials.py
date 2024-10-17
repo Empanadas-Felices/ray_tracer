@@ -1,8 +1,8 @@
 import pytest
-from rayTracer.materials import Materials
-from rayTracer.tuples import Tuples
-from rayTracer.colors import Colors
-from rayTracer.lights import Lights
+from ray_tracer.materials import Materials
+from ray_tracer.tuples import Tuples
+from ray_tracer.colors import Colors
+from ray_tracer.lights import Lights
 
 def test_default_material():
     m = Materials()

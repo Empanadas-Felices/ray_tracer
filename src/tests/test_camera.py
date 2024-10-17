@@ -1,12 +1,12 @@
 import math
 import pytest
 
-from rayTracer.camera import Camera
-from rayTracer.matrix import Matrix
-from rayTracer.tuples import Tuples
-from rayTracer.transformations import Transformations
-from rayTracer.worlds import Worlds
-from rayTracer.colors import Colors
+from ray_tracer.camera import Camera
+from ray_tracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
+from ray_tracer.transformations import Transformations
+from ray_tracer.worlds import Worlds
+from ray_tracer.colors import Colors
 
 EPSILON = 0.00001
 

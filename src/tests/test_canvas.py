@@ -1,8 +1,8 @@
 import pytest
 
-from rayTracer.canvas import Canvas
+from ray_tracer.canvas import Canvas
 
-from rayTracer.colors import Colors
+from ray_tracer.colors import Colors
 
 
 @pytest.fixture

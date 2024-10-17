@@ -1,8 +1,8 @@
 import math
 import pytest
-from rayTracer.transformations import Transformations 
-from rayTracer.matrix import Matrix
-from rayTracer.tuples import Tuples
+from ray_tracer.transformations import Transformations 
+from ray_tracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
 
 @pytest.fixture
 def sample_point():

@@ -1,7 +1,7 @@
 from math import sqrt
 import pytest
 
-from rayTracer.tuples import Tuples
+from ray_tracer.tuples import Tuples
 
 
 def test_tuples_1(): 

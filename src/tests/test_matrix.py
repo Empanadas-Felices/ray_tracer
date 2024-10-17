@@ -1,7 +1,7 @@
 import pytest
 
-from rayTracer.matrix import Matrix
-from rayTracer.tuples import Tuples
+from ray_tracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
 
 COLUMNS = 4
 ROWS = 4

@@ -1,8 +1,8 @@
 import pytest
-from rayTracer.rays import Rays
-from rayTracer.tuples import Tuples
-from rayTracer.transformations import Transformations
-from rayTracer.intersection import Intersection
+from ray_tracer.rays import Rays
+from ray_tracer.tuples import Tuples
+from ray_tracer.transformations import Transformations
+from ray_tracer.intersection import Intersection
 
 def test_create_ray():
     origin = Tuples().Point(1, 2, 3)

@@ -1,6 +1,6 @@
 import pytest
 
-from rayTracer.colors import Colors
+from ray_tracer.colors import Colors
 
 def test_create_color():
 	c = Colors(-0.5, 0.4, 1.7)

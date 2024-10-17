@@ -1,9 +1,9 @@
-from rayTracer.sphere import Sphere
-from rayTracer.intersection import Intersection
-from rayTracer.computations import Computations
-from rayTracer.tuples import Tuples
-from rayTracer.rays import Rays
-from rayTracer.transformations import Transformations
+from ray_tracer.sphere import Sphere
+from ray_tracer.intersection import Intersection
+from ray_tracer.computations import Computations
+from ray_tracer.tuples import Tuples
+from ray_tracer.rays import Rays
+from ray_tracer.transformations import Transformations
 
 EPSILON = 0.00001
 
