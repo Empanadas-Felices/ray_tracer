@@ -1,4 +1,3 @@
-# Realizado por Angie Solís y Emilia Víquez
 import math
 
 class Colors:

@@ -1,8 +1,6 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
-from rayTracer.lights import Lights
-from rayTracer.colors import Colors
+from ray_tracer.tuples import Tuples
+from ray_tracer.lights import Lights
+from ray_tracer.colors import Colors
 
 class Computations:
     EPSILON = 0.00001

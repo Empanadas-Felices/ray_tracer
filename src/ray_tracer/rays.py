@@ -1,6 +1,4 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
+from ray_tracer.tuples import Tuples
 
 class Rays:
   def __init__(self, point, vector):

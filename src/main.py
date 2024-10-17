@@ -1,10 +1,10 @@
-from rayTracer.colors import Colors
-from rayTracer.tuples import Tuples
-from rayTracer.worlds import Worlds
-from rayTracer.sphere import Sphere
-from rayTracer.materials import Materials
-from rayTracer.transformations import Transformations
-from rayTracer.camera import Camera
+from ray_tracer.colors import Colors
+from ray_tracer.tuples import Tuples
+from ray_tracer.worlds import Worlds
+from ray_tracer.sphere import Sphere
+from ray_tracer.materials import Materials
+from ray_tracer.transformations import Transformations
+from ray_tracer.camera import Camera
 import math
 
 def main():
@@ -62,7 +62,7 @@ def main():
                                                         Tuples().Point(0, 1, 0),
                                                         Tuples().Vector(0, 1, 0))
     canvas = camera.render(world)
-    canvas.canvas_to_ppm("purpleCircle2.ppm")
+    canvas.canvas_to_ppm("../results/basic_spheres.ppm")
     
    
 if __name__ == "__main__":

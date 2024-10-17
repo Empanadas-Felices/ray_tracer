@@ -1,10 +1,9 @@
-# Realizado por Angie Solís y Emilia Víquez
 import math
 
-from rayTracer.matrix import Matrix
-from rayTracer.tuples import Tuples
-from rayTracer.sphere import Sphere
-from rayTracer.rays import Rays
+from ray_tracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
+from ray_tracer.sphere import Sphere
+from ray_tracer.rays import Rays
 
 class Intersection:
     def __init__(self, t = 0.0, obj = Sphere()):

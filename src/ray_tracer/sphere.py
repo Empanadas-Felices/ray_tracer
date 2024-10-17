@@ -1,9 +1,7 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
-from rayTracer.materials import Materials
-from rayTracer.transformations import Transformations
-from rayTracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
+from ray_tracer.materials import Materials
+from ray_tracer.transformations import Transformations
+from ray_tracer.matrix import Matrix
 
 class Sphere:
   IDSeed = 0

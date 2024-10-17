@@ -1,5 +1,5 @@
-from rayTracer.tuples import Tuples
-from rayTracer.colors import Colors
+from ray_tracer.tuples import Tuples
+from ray_tracer.colors import Colors
 
 import math
 

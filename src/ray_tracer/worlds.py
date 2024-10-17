@@ -1,13 +1,11 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
-from rayTracer.colors import Colors
-from rayTracer.sphere import Sphere
-from rayTracer.lights import Lights
-from rayTracer.rays import Rays
-from rayTracer.transformations import Transformations
-from rayTracer.intersection import Intersection
-from rayTracer.materials import Materials
+from ray_tracer.tuples import Tuples
+from ray_tracer.colors import Colors
+from ray_tracer.sphere import Sphere
+from ray_tracer.lights import Lights
+from ray_tracer.rays import Rays
+from ray_tracer.transformations import Transformations
+from ray_tracer.intersection import Intersection
+from ray_tracer.materials import Materials
 
 class Worlds:
     def __init__(self):

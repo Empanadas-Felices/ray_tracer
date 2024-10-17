@@ -1,6 +1,4 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.matrix import Matrix
+from ray_tracer.matrix import Matrix
 
 import math
 

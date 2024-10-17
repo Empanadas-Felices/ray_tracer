@@ -1,8 +1,4 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
-
-# from tuples import Tuples
+from ray_tracer.tuples import Tuples
 
 class Matrix:
     EPSILON = 0.00001

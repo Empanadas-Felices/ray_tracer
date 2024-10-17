@@ -1,10 +1,5 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.tuples import Tuples
-from rayTracer.colors import Colors
-
-# from tuples import Tuples
-# from colors import Colors
+from ray_tracer.tuples import Tuples
+from ray_tracer.colors import Colors
 
 class Materials:
   EPSILON = 0.00001

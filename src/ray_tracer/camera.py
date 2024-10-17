@@ -1,10 +1,8 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.matrix import Matrix
-from rayTracer.tuples import Tuples
-from rayTracer.rays import Rays
-from rayTracer.canvas import Canvas
-from rayTracer.computations import Computations
+from ray_tracer.matrix import Matrix
+from ray_tracer.tuples import Tuples
+from ray_tracer.rays import Rays
+from ray_tracer.canvas import Canvas
+from ray_tracer.computations import Computations
 
 import math
 

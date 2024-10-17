@@ -1,6 +1,4 @@
-# Realizado por Angie Solís y Emilia Víquez
-
-from rayTracer.colors import Colors
+from ray_tracer.colors import Colors
 
 class Canvas:
   def __init__(self, cols, rows, color = Colors(0,0,0,0)):
